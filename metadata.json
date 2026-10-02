@@ -1,0 +1,6 @@
+{
+  "name": "LAST - Lottery Last Digit Privacy Policy",
+  "description": "Official Privacy Policy for LAST - Lottery Last Digit Android mobile application (jp.lastdigit.com).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
